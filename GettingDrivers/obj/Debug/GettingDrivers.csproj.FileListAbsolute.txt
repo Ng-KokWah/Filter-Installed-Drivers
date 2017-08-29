@@ -1,0 +1,18 @@
+c:\users\dragondestroyer4\documents\visual studio 2017\Projects\GettingDrivers\GettingDrivers\bin\Debug\GettingDrivers.exe.config
+c:\users\dragondestroyer4\documents\visual studio 2017\Projects\GettingDrivers\GettingDrivers\bin\Debug\GettingDrivers.exe
+c:\users\dragondestroyer4\documents\visual studio 2017\Projects\GettingDrivers\GettingDrivers\bin\Debug\GettingDrivers.pdb
+c:\users\dragondestroyer4\documents\visual studio 2017\Projects\GettingDrivers\GettingDrivers\obj\Debug\GettingDrivers.csprojResolveAssemblyReference.cache
+c:\users\dragondestroyer4\documents\visual studio 2017\Projects\GettingDrivers\GettingDrivers\obj\Debug\GettingDrivers.DriverQuery.resources
+c:\users\dragondestroyer4\documents\visual studio 2017\Projects\GettingDrivers\GettingDrivers\obj\Debug\GettingDrivers.Properties.Resources.resources
+c:\users\dragondestroyer4\documents\visual studio 2017\Projects\GettingDrivers\GettingDrivers\obj\Debug\GettingDrivers.csproj.GenerateResource.Cache
+c:\users\dragondestroyer4\documents\visual studio 2017\Projects\GettingDrivers\GettingDrivers\obj\Debug\GettingDrivers.exe
+c:\users\dragondestroyer4\documents\visual studio 2017\Projects\GettingDrivers\GettingDrivers\obj\Debug\GettingDrivers.pdb
+C:\Users\kok wah\Desktop\Github\GettingDrivers\GettingDrivers\GettingDrivers\bin\Debug\GettingDrivers.exe.config
+C:\Users\kok wah\Desktop\Github\GettingDrivers\GettingDrivers\GettingDrivers\bin\Debug\GettingDrivers.exe
+C:\Users\kok wah\Desktop\Github\GettingDrivers\GettingDrivers\GettingDrivers\bin\Debug\GettingDrivers.pdb
+C:\Users\kok wah\Desktop\Github\GettingDrivers\GettingDrivers\GettingDrivers\obj\Debug\GettingDrivers.csprojResolveAssemblyReference.cache
+C:\Users\kok wah\Desktop\Github\GettingDrivers\GettingDrivers\GettingDrivers\obj\Debug\GettingDrivers.DriverQuery.resources
+C:\Users\kok wah\Desktop\Github\GettingDrivers\GettingDrivers\GettingDrivers\obj\Debug\GettingDrivers.Properties.Resources.resources
+C:\Users\kok wah\Desktop\Github\GettingDrivers\GettingDrivers\GettingDrivers\obj\Debug\GettingDrivers.csproj.GenerateResource.Cache
+C:\Users\kok wah\Desktop\Github\GettingDrivers\GettingDrivers\GettingDrivers\obj\Debug\GettingDrivers.exe
+C:\Users\kok wah\Desktop\Github\GettingDrivers\GettingDrivers\GettingDrivers\obj\Debug\GettingDrivers.pdb
